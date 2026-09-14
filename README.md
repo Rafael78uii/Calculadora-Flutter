@@ -7,7 +7,7 @@
   </p>
 
   <!-- Animação/GIF da Calculadora -->
-  <img src="./assets/demo.gif" alt="Demonstração da Calculadora" width="300px" />
+  <img src="./assets/demo.gif" alt="Calculadora" width="300px" />
 
   <br />
   <br />
